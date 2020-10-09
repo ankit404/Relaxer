@@ -63,7 +63,7 @@ body {
     position: absolute;
     top: -40px;
     left: 140px;
-    width: 20px;
+    width: 20.5px;
     height: 190px;
     animation: rotate 7.5s linear forwards infinite;
     transform-origin: bottom center;
