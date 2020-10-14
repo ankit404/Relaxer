@@ -16,6 +16,7 @@ body {
     align-items: center;
     margin: 0;
     color: #fff;
+    overflow: hidden;
 }
 
 .container {
@@ -30,7 +31,7 @@ body {
 }
 
 .circle {
-    background-color: #010f1c;
+    background-color: #112329;
     height: 100%;
     width: 100%;
     border-radius: 50%;
