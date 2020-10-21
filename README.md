@@ -1,3 +1,3 @@
 # Relaxer
-just a meditation web <br>
+Just a meditation web <br>
 [Try Relaxer!](https://ankit404.github.io/Relaxer)
